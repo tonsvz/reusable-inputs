@@ -1,6 +1,7 @@
 import React from "react";
+import "../styles/Main.scss";
 
-const Main = (props) => {
+const Input = (props) => {
   return (
     <div className="main-container">
       <div className="input-wrapper">
@@ -11,4 +12,4 @@ const Main = (props) => {
   );
 };
 
-export default Main;
+export default Input;
