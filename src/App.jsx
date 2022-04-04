@@ -115,6 +115,14 @@ function App() {
             labelText="Label"
           />
         </div>
+
+        <div className="copyright">
+          <p>
+            created by{" "}
+            <a href="https://www.instagram.com/tonsofcode">tonsofcode</a> -
+            devChallenges.io
+          </p>
+        </div>
       </div>
     </div>
   );
