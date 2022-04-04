@@ -7,7 +7,7 @@ const Header = () => {
       <div className="navigation">
         <div className="navigation-title">
           <h1>
-            dev<span>Challenges.io</span>
+            Dev<span>challenges.io</span>
           </h1>
         </div>
         <div className="navigation-links">
